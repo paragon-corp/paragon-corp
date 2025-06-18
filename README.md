@@ -1,9 +1,5 @@
 # Welcome to Paragon Corp! 👋
 
-![Paragon Corp Logo](paragon.png)
-
----
-
 Creator : [LGKentang](https://github.com/LGKentang)
 
 ## About Us
